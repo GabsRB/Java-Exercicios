@@ -1,4 +1,4 @@
-// Write a Java program to print 'Hello' on screen and your name on a separate line.
+// Exercise 1: Write a Java program to print 'Hello' on screen and your name on a separate line.
 
 import java.util.Scanner;
 
@@ -10,8 +10,7 @@ public class Exercicio1_Hello {
         String nome = scanner.nextLine();
         
         System.out.println("Hello, ");
-        System.out.println(nome);
-                
+        System.out.println(nome);       
         scanner.close();
     }
 }
