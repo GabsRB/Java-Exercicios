@@ -1,3 +1,5 @@
+// Write a Java program to print 'Hello' on screen and your name on a separate line.
+
 import java.util.Scanner;
 
 public class Exercicio1_Hello {
